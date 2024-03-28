@@ -1,0 +1,5 @@
+#write a program to add a space in between each character of a text message so that an extra space would be tagged along through the space
+text= 'm i s s i s s i p p i '
+for i in text:
+    print(i, end="")
+    
